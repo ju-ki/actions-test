@@ -1,2 +1,1 @@
-console.log("Hello");
-testst
+console.log("CI/CDのテスト");
